@@ -18,7 +18,7 @@ body {
     height: 350px;
     border-radius: 5px;
     box-shadow: 0px 0px 1px 1px rgba(0, 0, 0, 0.692);
-    background: #7ba238;
+    background: hsl(193, 49%, 43%);
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -42,7 +42,7 @@ body {
 
 
 .card button {
-    background: #e2a30b;
+    background: hsl(333, 91%, 46%);
     color: white;
     border-radius: 5px;
     padding: 4px 8px;
