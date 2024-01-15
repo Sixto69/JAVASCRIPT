@@ -30,7 +30,7 @@ body {
 
 .card .img-card {
     height:200px;
-    background-image: url("/assets/css/img/img1.jpg");
+    background-image: url("img/img1.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center ;
