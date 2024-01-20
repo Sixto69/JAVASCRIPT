@@ -28,7 +28,7 @@ function validarCantidad() {
 
     if (totalSticker >= 0 && totalSticker <= 10) {
         msjeResultado.textContent = "El total de stickers es: " + totalSticker;
-        msjeResultado.style.color = 'black';
+        msjeResultado.style.color = 'blue';
     } else {
         msjeResultado.textContent = "No puede llevar más de 10 o stickers negativos, y llevas: " + totalSticker;
         msjeResultado.style.color = 'red';
