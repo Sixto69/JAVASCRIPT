@@ -66,7 +66,7 @@ const propiedades_alquiler = [
       ubicacion: '123 Main Street, Anytown, CA 91234',
       habitaciones: 2,
       banos: 2,
-      costo: 2000,
+      costo: 2000000,
       smoke: false,
       pets: true
     },
