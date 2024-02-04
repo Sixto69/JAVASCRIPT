@@ -1,0 +1,51 @@
+.main-section {
+    background-image: url(img/img1.jpg);
+    background-size: cover;
+    /* La imagen cubrirá todo el ancho y largo */
+    background-position: center;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #fff;
+    text-align: center;
+}
+
+
+.card-container {
+    display: flex;
+    margin-top: 100px;
+}
+
+.card {
+    width: 325px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2);
+    margin: 20px;
+}
+
+
+.card img {
+    height: 200px;
+   
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 0.25rem;
+    cursor: pointer;
+    text-align: end;
+
+}
+
+p {
+    font-size: 10px;
+    margin: 2px;
+}
