@@ -23,8 +23,8 @@ async function converter() {
               case "euro":
                   resultado.innerHTML = `Resultado: € ` + conversion;
                   break;
-              case "bitcoin":
-                  resultado.innerHTML = `Resultado: ₿ ` + conversion;
+              case "Libra Esterlina":
+                  resultado.innerHTML = `Resultado: gbp` + conversion;
                   break;
               
           }
